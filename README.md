@@ -50,5 +50,3 @@ We evaluated three classifiers:
 
 The Support Vector Machine with an RBF kernel and RFECV feature selection achieved the highest accuracy, outperforming KNN and Random Forest, especially when using optimized feature subsets.
 
-## Folder Structure
-
